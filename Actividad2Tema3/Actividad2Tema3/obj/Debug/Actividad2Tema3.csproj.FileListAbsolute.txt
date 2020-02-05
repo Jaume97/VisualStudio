@@ -1,0 +1,7 @@
+C:\Users\Jaume\source\repos\Actividad2Tema3\Actividad2Tema3\bin\Debug\Actividad2Tema3.exe.config
+C:\Users\Jaume\source\repos\Actividad2Tema3\Actividad2Tema3\bin\Debug\Actividad2Tema3.exe
+C:\Users\Jaume\source\repos\Actividad2Tema3\Actividad2Tema3\bin\Debug\Actividad2Tema3.pdb
+C:\Users\Jaume\source\repos\Actividad2Tema3\Actividad2Tema3\obj\Debug\Actividad2Tema3.csprojAssemblyReference.cache
+C:\Users\Jaume\source\repos\Actividad2Tema3\Actividad2Tema3\obj\Debug\Actividad2Tema3.csproj.CoreCompileInputs.cache
+C:\Users\Jaume\source\repos\Actividad2Tema3\Actividad2Tema3\obj\Debug\Actividad2Tema3.exe
+C:\Users\Jaume\source\repos\Actividad2Tema3\Actividad2Tema3\obj\Debug\Actividad2Tema3.pdb

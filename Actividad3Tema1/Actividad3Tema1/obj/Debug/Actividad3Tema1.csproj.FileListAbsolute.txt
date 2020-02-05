@@ -1,0 +1,10 @@
+C:\Users\Jaume\source\repos\Actividad3Tema1\Actividad3Tema1\bin\Debug\Actividad3Tema1.exe.config
+C:\Users\Jaume\source\repos\Actividad3Tema1\Actividad3Tema1\bin\Debug\Actividad3Tema1.exe
+C:\Users\Jaume\source\repos\Actividad3Tema1\Actividad3Tema1\bin\Debug\Actividad3Tema1.pdb
+C:\Users\Jaume\source\repos\Actividad3Tema1\Actividad3Tema1\obj\Debug\Actividad3Tema1.csprojAssemblyReference.cache
+C:\Users\Jaume\source\repos\Actividad3Tema1\Actividad3Tema1\obj\Debug\Actividad3Tema1.Form1.resources
+C:\Users\Jaume\source\repos\Actividad3Tema1\Actividad3Tema1\obj\Debug\Actividad3Tema1.Properties.Resources.resources
+C:\Users\Jaume\source\repos\Actividad3Tema1\Actividad3Tema1\obj\Debug\Actividad3Tema1.csproj.GenerateResource.cache
+C:\Users\Jaume\source\repos\Actividad3Tema1\Actividad3Tema1\obj\Debug\Actividad3Tema1.csproj.CoreCompileInputs.cache
+C:\Users\Jaume\source\repos\Actividad3Tema1\Actividad3Tema1\obj\Debug\Actividad3Tema1.exe
+C:\Users\Jaume\source\repos\Actividad3Tema1\Actividad3Tema1\obj\Debug\Actividad3Tema1.pdb

@@ -1,0 +1,8 @@
+C:\Users\Jaume\source\repos\LabelTextbox\Etiquetaviso\bin\Debug\Etiquetaviso.dll
+C:\Users\Jaume\source\repos\LabelTextbox\Etiquetaviso\bin\Debug\Etiquetaviso.pdb
+C:\Users\Jaume\source\repos\LabelTextbox\Etiquetaviso\obj\Debug\Etiquetaviso.csprojAssemblyReference.cache
+C:\Users\Jaume\source\repos\LabelTextbox\Etiquetaviso\obj\Debug\Etiquetaviso.csproj.CoreCompileInputs.cache
+C:\Users\Jaume\source\repos\LabelTextbox\Etiquetaviso\obj\Debug\Etiquetaviso.dll
+C:\Users\Jaume\source\repos\LabelTextbox\Etiquetaviso\obj\Debug\Etiquetaviso.pdb
+C:\Users\Jaume\source\repos\LabelTextbox\Etiquetaviso\obj\Debug\Etiquetaviso.CustomControl1.resources
+C:\Users\Jaume\source\repos\LabelTextbox\Etiquetaviso\obj\Debug\Etiquetaviso.csproj.GenerateResource.cache

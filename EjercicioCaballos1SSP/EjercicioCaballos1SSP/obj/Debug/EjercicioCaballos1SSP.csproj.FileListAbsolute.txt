@@ -1,0 +1,7 @@
+C:\Users\Jaume\source\repos\EjercicioCaballos1SSP\EjercicioCaballos1SSP\bin\Debug\EjercicioCaballos1SSP.exe.config
+C:\Users\Jaume\source\repos\EjercicioCaballos1SSP\EjercicioCaballos1SSP\bin\Debug\EjercicioCaballos1SSP.exe
+C:\Users\Jaume\source\repos\EjercicioCaballos1SSP\EjercicioCaballos1SSP\bin\Debug\EjercicioCaballos1SSP.pdb
+C:\Users\Jaume\source\repos\EjercicioCaballos1SSP\EjercicioCaballos1SSP\obj\Debug\EjercicioCaballos1SSP.csprojAssemblyReference.cache
+C:\Users\Jaume\source\repos\EjercicioCaballos1SSP\EjercicioCaballos1SSP\obj\Debug\EjercicioCaballos1SSP.csproj.CoreCompileInputs.cache
+C:\Users\Jaume\source\repos\EjercicioCaballos1SSP\EjercicioCaballos1SSP\obj\Debug\EjercicioCaballos1SSP.exe
+C:\Users\Jaume\source\repos\EjercicioCaballos1SSP\EjercicioCaballos1SSP\obj\Debug\EjercicioCaballos1SSP.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jaume\source\repos\IntroduccionCsharp\IntroduccionCsharp\bin\Debug\IntroduccionCsharp.exe.config
+C:\Users\Jaume\source\repos\IntroduccionCsharp\IntroduccionCsharp\bin\Debug\IntroduccionCsharp.exe
+C:\Users\Jaume\source\repos\IntroduccionCsharp\IntroduccionCsharp\bin\Debug\IntroduccionCsharp.pdb
+C:\Users\Jaume\source\repos\IntroduccionCsharp\IntroduccionCsharp\obj\Debug\IntroduccionCsharp.csprojAssemblyReference.cache
+C:\Users\Jaume\source\repos\IntroduccionCsharp\IntroduccionCsharp\obj\Debug\IntroduccionCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Jaume\source\repos\IntroduccionCsharp\IntroduccionCsharp\obj\Debug\IntroduccionCsharp.exe
+C:\Users\Jaume\source\repos\IntroduccionCsharp\IntroduccionCsharp\obj\Debug\IntroduccionCsharp.pdb

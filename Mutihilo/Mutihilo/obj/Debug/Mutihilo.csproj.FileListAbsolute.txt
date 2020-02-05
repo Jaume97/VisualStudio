@@ -1,0 +1,7 @@
+C:\Users\Jaume\source\repos\Mutihilo\Mutihilo\bin\Debug\Mutihilo.exe.config
+C:\Users\Jaume\source\repos\Mutihilo\Mutihilo\bin\Debug\Mutihilo.exe
+C:\Users\Jaume\source\repos\Mutihilo\Mutihilo\bin\Debug\Mutihilo.pdb
+C:\Users\Jaume\source\repos\Mutihilo\Mutihilo\obj\Debug\Mutihilo.csprojAssemblyReference.cache
+C:\Users\Jaume\source\repos\Mutihilo\Mutihilo\obj\Debug\Mutihilo.csproj.CoreCompileInputs.cache
+C:\Users\Jaume\source\repos\Mutihilo\Mutihilo\obj\Debug\Mutihilo.exe
+C:\Users\Jaume\source\repos\Mutihilo\Mutihilo\obj\Debug\Mutihilo.pdb

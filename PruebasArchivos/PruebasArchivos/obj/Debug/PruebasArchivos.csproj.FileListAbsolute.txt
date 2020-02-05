@@ -1,0 +1,7 @@
+C:\Users\Jaume\source\repos\PruebasArchivos\PruebasArchivos\bin\Debug\PruebasArchivos.exe.config
+C:\Users\Jaume\source\repos\PruebasArchivos\PruebasArchivos\bin\Debug\PruebasArchivos.exe
+C:\Users\Jaume\source\repos\PruebasArchivos\PruebasArchivos\bin\Debug\PruebasArchivos.pdb
+C:\Users\Jaume\source\repos\PruebasArchivos\PruebasArchivos\obj\Debug\PruebasArchivos.csprojAssemblyReference.cache
+C:\Users\Jaume\source\repos\PruebasArchivos\PruebasArchivos\obj\Debug\PruebasArchivos.csproj.CoreCompileInputs.cache
+C:\Users\Jaume\source\repos\PruebasArchivos\PruebasArchivos\obj\Debug\PruebasArchivos.exe
+C:\Users\Jaume\source\repos\PruebasArchivos\PruebasArchivos\obj\Debug\PruebasArchivos.pdb

@@ -1,0 +1,12 @@
+C:\Users\Jaume\source\repos\FormPracticaExamen\FormPracticaExamen\bin\Debug\FormPracticaExamen.exe.config
+C:\Users\Jaume\source\repos\FormPracticaExamen\FormPracticaExamen\bin\Debug\FormPracticaExamen.exe
+C:\Users\Jaume\source\repos\FormPracticaExamen\FormPracticaExamen\bin\Debug\FormPracticaExamen.pdb
+C:\Users\Jaume\source\repos\FormPracticaExamen\FormPracticaExamen\obj\Debug\FormPracticaExamen.csprojAssemblyReference.cache
+C:\Users\Jaume\source\repos\FormPracticaExamen\FormPracticaExamen\obj\Debug\FormPracticaExamen.Form1.resources
+C:\Users\Jaume\source\repos\FormPracticaExamen\FormPracticaExamen\obj\Debug\FormPracticaExamen.Form2.resources
+C:\Users\Jaume\source\repos\FormPracticaExamen\FormPracticaExamen\obj\Debug\FormPracticaExamen.Properties.Resources.resources
+C:\Users\Jaume\source\repos\FormPracticaExamen\FormPracticaExamen\obj\Debug\FormPracticaExamen.csproj.GenerateResource.cache
+C:\Users\Jaume\source\repos\FormPracticaExamen\FormPracticaExamen\obj\Debug\FormPracticaExamen.csproj.CoreCompileInputs.cache
+C:\Users\Jaume\source\repos\FormPracticaExamen\FormPracticaExamen\obj\Debug\FormPracticaExamen.exe
+C:\Users\Jaume\source\repos\FormPracticaExamen\FormPracticaExamen\obj\Debug\FormPracticaExamen.pdb
+C:\Users\Jaume\source\repos\FormPracticaExamen\FormPracticaExamen\obj\Debug\FormPracticaExamen.Form3.resources

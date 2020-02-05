@@ -1,0 +1,7 @@
+C:\Users\Jaume\source\repos\Actividad1Tema2\Actividad1Tema2\bin\Debug\Actividad1Tema2.exe.config
+C:\Users\Jaume\source\repos\Actividad1Tema2\Actividad1Tema2\bin\Debug\Actividad1Tema2.exe
+C:\Users\Jaume\source\repos\Actividad1Tema2\Actividad1Tema2\bin\Debug\Actividad1Tema2.pdb
+C:\Users\Jaume\source\repos\Actividad1Tema2\Actividad1Tema2\obj\Debug\Actividad1Tema2.csprojAssemblyReference.cache
+C:\Users\Jaume\source\repos\Actividad1Tema2\Actividad1Tema2\obj\Debug\Actividad1Tema2.csproj.CoreCompileInputs.cache
+C:\Users\Jaume\source\repos\Actividad1Tema2\Actividad1Tema2\obj\Debug\Actividad1Tema2.exe
+C:\Users\Jaume\source\repos\Actividad1Tema2\Actividad1Tema2\obj\Debug\Actividad1Tema2.pdb

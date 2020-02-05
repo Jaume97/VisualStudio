@@ -1,0 +1,15 @@
+C:\Users\Jaume\source\repos\LabelTextbox\PruebaTema5\bin\Debug\PruebaTema5.exe.config
+C:\Users\Jaume\source\repos\LabelTextbox\PruebaTema5\bin\Debug\PruebaTema5.exe
+C:\Users\Jaume\source\repos\LabelTextbox\PruebaTema5\bin\Debug\PruebaTema5.pdb
+C:\Users\Jaume\source\repos\LabelTextbox\PruebaTema5\obj\Debug\PruebaTema5.csprojAssemblyReference.cache
+C:\Users\Jaume\source\repos\LabelTextbox\PruebaTema5\obj\Debug\PruebaTema5.Properties.Resources.resources
+C:\Users\Jaume\source\repos\LabelTextbox\PruebaTema5\obj\Debug\PruebaTema5.csproj.GenerateResource.cache
+C:\Users\Jaume\source\repos\LabelTextbox\PruebaTema5\obj\Debug\PruebaTema5.csproj.CoreCompileInputs.cache
+C:\Users\Jaume\source\repos\LabelTextbox\PruebaTema5\obj\Debug\PruebaTema5.exe
+C:\Users\Jaume\source\repos\LabelTextbox\PruebaTema5\obj\Debug\PruebaTema5.pdb
+C:\Users\Jaume\source\repos\LabelTextbox\PruebaTema5\bin\Debug\LabelTextbox.dll
+C:\Users\Jaume\source\repos\LabelTextbox\PruebaTema5\bin\Debug\LabelTextbox.pdb
+C:\Users\Jaume\source\repos\LabelTextbox\PruebaTema5\obj\Debug\PruebaTema5.Form1.resources
+C:\Users\Jaume\source\repos\LabelTextbox\PruebaTema5\obj\Debug\PruebaTema5.csproj.CopyComplete
+C:\Users\Jaume\source\repos\LabelTextbox\PruebaTema5\bin\Debug\Etiquetaviso.dll
+C:\Users\Jaume\source\repos\LabelTextbox\PruebaTema5\bin\Debug\Etiquetaviso.pdb

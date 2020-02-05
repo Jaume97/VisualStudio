@@ -1,0 +1,10 @@
+C:\Users\Jaume\source\repos\pruebaTransforms\pruebaTransforms\bin\Debug\pruebaTransforms.exe.config
+C:\Users\Jaume\source\repos\pruebaTransforms\pruebaTransforms\bin\Debug\pruebaTransforms.exe
+C:\Users\Jaume\source\repos\pruebaTransforms\pruebaTransforms\bin\Debug\pruebaTransforms.pdb
+C:\Users\Jaume\source\repos\pruebaTransforms\pruebaTransforms\obj\Debug\pruebaTransforms.csprojAssemblyReference.cache
+C:\Users\Jaume\source\repos\pruebaTransforms\pruebaTransforms\obj\Debug\pruebaTransforms.Form1.resources
+C:\Users\Jaume\source\repos\pruebaTransforms\pruebaTransforms\obj\Debug\pruebaTransforms.Properties.Resources.resources
+C:\Users\Jaume\source\repos\pruebaTransforms\pruebaTransforms\obj\Debug\pruebaTransforms.csproj.GenerateResource.cache
+C:\Users\Jaume\source\repos\pruebaTransforms\pruebaTransforms\obj\Debug\pruebaTransforms.csproj.CoreCompileInputs.cache
+C:\Users\Jaume\source\repos\pruebaTransforms\pruebaTransforms\obj\Debug\pruebaTransforms.exe
+C:\Users\Jaume\source\repos\pruebaTransforms\pruebaTransforms\obj\Debug\pruebaTransforms.pdb

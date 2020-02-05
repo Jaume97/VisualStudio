@@ -1,0 +1,7 @@
+C:\Users\Jaume\source\repos\PruebaNetworking\PruebaNetworking\bin\Debug\PruebaNetworking.exe.config
+C:\Users\Jaume\source\repos\PruebaNetworking\PruebaNetworking\bin\Debug\PruebaNetworking.exe
+C:\Users\Jaume\source\repos\PruebaNetworking\PruebaNetworking\bin\Debug\PruebaNetworking.pdb
+C:\Users\Jaume\source\repos\PruebaNetworking\PruebaNetworking\obj\Debug\PruebaNetworking.csprojAssemblyReference.cache
+C:\Users\Jaume\source\repos\PruebaNetworking\PruebaNetworking\obj\Debug\PruebaNetworking.csproj.CoreCompileInputs.cache
+C:\Users\Jaume\source\repos\PruebaNetworking\PruebaNetworking\obj\Debug\PruebaNetworking.exe
+C:\Users\Jaume\source\repos\PruebaNetworking\PruebaNetworking\obj\Debug\PruebaNetworking.pdb

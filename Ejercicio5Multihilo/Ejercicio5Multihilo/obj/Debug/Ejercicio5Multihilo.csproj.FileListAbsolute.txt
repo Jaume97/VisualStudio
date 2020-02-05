@@ -1,0 +1,7 @@
+C:\Users\Jaume\source\repos\Ejercicio5Multihilo\Ejercicio5Multihilo\bin\Debug\Ejercicio5Multihilo.exe.config
+C:\Users\Jaume\source\repos\Ejercicio5Multihilo\Ejercicio5Multihilo\bin\Debug\Ejercicio5Multihilo.exe
+C:\Users\Jaume\source\repos\Ejercicio5Multihilo\Ejercicio5Multihilo\bin\Debug\Ejercicio5Multihilo.pdb
+C:\Users\Jaume\source\repos\Ejercicio5Multihilo\Ejercicio5Multihilo\obj\Debug\Ejercicio5Multihilo.csprojAssemblyReference.cache
+C:\Users\Jaume\source\repos\Ejercicio5Multihilo\Ejercicio5Multihilo\obj\Debug\Ejercicio5Multihilo.csproj.CoreCompileInputs.cache
+C:\Users\Jaume\source\repos\Ejercicio5Multihilo\Ejercicio5Multihilo\obj\Debug\Ejercicio5Multihilo.exe
+C:\Users\Jaume\source\repos\Ejercicio5Multihilo\Ejercicio5Multihilo\obj\Debug\Ejercicio5Multihilo.pdb

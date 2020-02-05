@@ -1,0 +1,11 @@
+C:\Users\Jaume\source\repos\FormEjercicioMobil\FormEjercicioMobil\bin\Debug\FormEjercicioMobil.exe.config
+C:\Users\Jaume\source\repos\FormEjercicioMobil\FormEjercicioMobil\bin\Debug\FormEjercicioMobil.exe
+C:\Users\Jaume\source\repos\FormEjercicioMobil\FormEjercicioMobil\bin\Debug\FormEjercicioMobil.pdb
+C:\Users\Jaume\source\repos\FormEjercicioMobil\FormEjercicioMobil\obj\Debug\FormEjercicioMobil.csprojAssemblyReference.cache
+C:\Users\Jaume\source\repos\FormEjercicioMobil\FormEjercicioMobil\obj\Debug\FormEjercicioMobil.Form1.resources
+C:\Users\Jaume\source\repos\FormEjercicioMobil\FormEjercicioMobil\obj\Debug\FormEjercicioMobil.Form2.resources
+C:\Users\Jaume\source\repos\FormEjercicioMobil\FormEjercicioMobil\obj\Debug\FormEjercicioMobil.Properties.Resources.resources
+C:\Users\Jaume\source\repos\FormEjercicioMobil\FormEjercicioMobil\obj\Debug\FormEjercicioMobil.csproj.GenerateResource.cache
+C:\Users\Jaume\source\repos\FormEjercicioMobil\FormEjercicioMobil\obj\Debug\FormEjercicioMobil.csproj.CoreCompileInputs.cache
+C:\Users\Jaume\source\repos\FormEjercicioMobil\FormEjercicioMobil\obj\Debug\FormEjercicioMobil.exe
+C:\Users\Jaume\source\repos\FormEjercicioMobil\FormEjercicioMobil\obj\Debug\FormEjercicioMobil.pdb

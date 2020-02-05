@@ -1,0 +1,13 @@
+C:\Users\Jaume\source\repos\Ejercicio3Tema6\FormEjercicio3Tema6\bin\Debug\FormEjercicio3Tema6.exe.config
+C:\Users\Jaume\source\repos\Ejercicio3Tema6\FormEjercicio3Tema6\bin\Debug\FormEjercicio3Tema6.exe
+C:\Users\Jaume\source\repos\Ejercicio3Tema6\FormEjercicio3Tema6\bin\Debug\FormEjercicio3Tema6.pdb
+C:\Users\Jaume\source\repos\Ejercicio3Tema6\FormEjercicio3Tema6\bin\Debug\Ejercicio3Tema6.dll
+C:\Users\Jaume\source\repos\Ejercicio3Tema6\FormEjercicio3Tema6\bin\Debug\Ejercicio3Tema6.pdb
+C:\Users\Jaume\source\repos\Ejercicio3Tema6\FormEjercicio3Tema6\obj\Debug\FormEjercicio3Tema6.csprojAssemblyReference.cache
+C:\Users\Jaume\source\repos\Ejercicio3Tema6\FormEjercicio3Tema6\obj\Debug\FormEjercicio3Tema6.Form1.resources
+C:\Users\Jaume\source\repos\Ejercicio3Tema6\FormEjercicio3Tema6\obj\Debug\FormEjercicio3Tema6.Properties.Resources.resources
+C:\Users\Jaume\source\repos\Ejercicio3Tema6\FormEjercicio3Tema6\obj\Debug\FormEjercicio3Tema6.csproj.GenerateResource.cache
+C:\Users\Jaume\source\repos\Ejercicio3Tema6\FormEjercicio3Tema6\obj\Debug\FormEjercicio3Tema6.csproj.CoreCompileInputs.cache
+C:\Users\Jaume\source\repos\Ejercicio3Tema6\FormEjercicio3Tema6\obj\Debug\FormEjercicio3Tema6.csproj.CopyComplete
+C:\Users\Jaume\source\repos\Ejercicio3Tema6\FormEjercicio3Tema6\obj\Debug\FormEjercicio3Tema6.exe
+C:\Users\Jaume\source\repos\Ejercicio3Tema6\FormEjercicio3Tema6\obj\Debug\FormEjercicio3Tema6.pdb

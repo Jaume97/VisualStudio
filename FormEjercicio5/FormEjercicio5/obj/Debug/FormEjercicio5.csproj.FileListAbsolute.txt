@@ -1,0 +1,10 @@
+C:\Users\Jaume\source\repos\FormEjercicio5\FormEjercicio5\bin\Debug\FormEjercicio5.exe.config
+C:\Users\Jaume\source\repos\FormEjercicio5\FormEjercicio5\bin\Debug\FormEjercicio5.exe
+C:\Users\Jaume\source\repos\FormEjercicio5\FormEjercicio5\bin\Debug\FormEjercicio5.pdb
+C:\Users\Jaume\source\repos\FormEjercicio5\FormEjercicio5\obj\Debug\FormEjercicio5.csprojAssemblyReference.cache
+C:\Users\Jaume\source\repos\FormEjercicio5\FormEjercicio5\obj\Debug\FormEjercicio5.Form1.resources
+C:\Users\Jaume\source\repos\FormEjercicio5\FormEjercicio5\obj\Debug\FormEjercicio5.Properties.Resources.resources
+C:\Users\Jaume\source\repos\FormEjercicio5\FormEjercicio5\obj\Debug\FormEjercicio5.csproj.GenerateResource.cache
+C:\Users\Jaume\source\repos\FormEjercicio5\FormEjercicio5\obj\Debug\FormEjercicio5.csproj.CoreCompileInputs.cache
+C:\Users\Jaume\source\repos\FormEjercicio5\FormEjercicio5\obj\Debug\FormEjercicio5.exe
+C:\Users\Jaume\source\repos\FormEjercicio5\FormEjercicio5\obj\Debug\FormEjercicio5.pdb

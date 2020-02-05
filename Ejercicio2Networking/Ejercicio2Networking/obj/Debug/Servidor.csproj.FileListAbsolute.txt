@@ -1,0 +1,7 @@
+C:\Users\Jaume\source\repos\Ejercicio2Networking\Ejercicio2Networking\bin\Debug\Ejercicio2Networking.exe.config
+C:\Users\Jaume\source\repos\Ejercicio2Networking\Ejercicio2Networking\bin\Debug\Ejercicio2Networking.exe
+C:\Users\Jaume\source\repos\Ejercicio2Networking\Ejercicio2Networking\bin\Debug\Ejercicio2Networking.pdb
+C:\Users\Jaume\source\repos\Ejercicio2Networking\Ejercicio2Networking\obj\Debug\Servidor.csprojAssemblyReference.cache
+C:\Users\Jaume\source\repos\Ejercicio2Networking\Ejercicio2Networking\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Jaume\source\repos\Ejercicio2Networking\Ejercicio2Networking\obj\Debug\Ejercicio2Networking.exe
+C:\Users\Jaume\source\repos\Ejercicio2Networking\Ejercicio2Networking\obj\Debug\Ejercicio2Networking.pdb

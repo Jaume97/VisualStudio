@@ -1,0 +1,7 @@
+C:\Users\Jaume\source\repos\Ejercicio3Tema1SPP\Ejercicio3Tema1SPP\bin\Debug\Ejercicio3Tema1SPP.exe.config
+C:\Users\Jaume\source\repos\Ejercicio3Tema1SPP\Ejercicio3Tema1SPP\bin\Debug\Ejercicio3Tema1SPP.exe
+C:\Users\Jaume\source\repos\Ejercicio3Tema1SPP\Ejercicio3Tema1SPP\bin\Debug\Ejercicio3Tema1SPP.pdb
+C:\Users\Jaume\source\repos\Ejercicio3Tema1SPP\Ejercicio3Tema1SPP\obj\Debug\Ejercicio3Tema1SPP.csprojAssemblyReference.cache
+C:\Users\Jaume\source\repos\Ejercicio3Tema1SPP\Ejercicio3Tema1SPP\obj\Debug\Ejercicio3Tema1SPP.csproj.CoreCompileInputs.cache
+C:\Users\Jaume\source\repos\Ejercicio3Tema1SPP\Ejercicio3Tema1SPP\obj\Debug\Ejercicio3Tema1SPP.exe
+C:\Users\Jaume\source\repos\Ejercicio3Tema1SPP\Ejercicio3Tema1SPP\obj\Debug\Ejercicio3Tema1SPP.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jaume\source\repos\PruebaNetworking\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Jaume\source\repos\PruebaNetworking\Cliente\bin\Debug\Cliente.exe
+C:\Users\Jaume\source\repos\PruebaNetworking\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Jaume\source\repos\PruebaNetworking\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\Jaume\source\repos\PruebaNetworking\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Jaume\source\repos\PruebaNetworking\Cliente\obj\Debug\Cliente.exe
+C:\Users\Jaume\source\repos\PruebaNetworking\Cliente\obj\Debug\Cliente.pdb
