@@ -11,33 +11,35 @@ namespace Ejercicio1Networking
 {
     class Program
     {
-        //PRUEBA PARA HIT
+        
         static void Main(string[] args)
         {
             IPAddress ipServer;
-            int port;
-            Socket socket;
+            int port=135;
+            Socket socket=null;
             Socket sClient;
             DateTime Hora=DateTime.Now;
-            bool condition=true;
+            bool condition=true,PortValid=false;
 
-            IPEndPoint iPEndPoint=new IPEndPoint(IPAddress.Any,135);
-            //Paso 1:Creamos el socket
-            socket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
-            //Enlace del socket al puerto
-            try
+            while (!PortValid)
             {
-                socket.Bind(iPEndPoint);
-                socket.Listen(10);
+                IPEndPoint iPEndPoint=new IPEndPoint(IPAddress.Any,port);
+                //Paso 1:Creamos el socket
+                socket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
+                //Enlace del socket al puerto
+                try
+                {
+                    socket.Bind(iPEndPoint);
+                    socket.Listen(10);
+                    PortValid = true;
+                }
+                catch (SocketException)
+                {
+                    port++;
+                   
+                }
             }
-            catch (SocketException)
-            {
-                System.Diagnostics.Debug.WriteLine("Error de socket");
-            }
-            //Cola de clientes pendientes
-            
-            
-
+             System.Diagnostics.Debug.WriteLine("Port: " + port);
             
 
             //AQUI DEBE ESTAR TODA LA CONVERSACION CON EL CLIENTE.
@@ -78,7 +80,9 @@ namespace Ejercicio1Networking
                                 sw.WriteLine("Dia: {0} Mes: {1} Año: {2} Hora: {3} Minutos: {4} Segundos {5} "
                                     , Hora.Day, Hora.Month, Hora.Year,Hora.Hour,Hora.Minute,Hora.Second);
                                 break;
-                            case "APAGAR": condition = false;
+                            case "APAGAR":
+                                sw.WriteLine("Server Disconnected");
+                                condition = false;
                                 break;
                             default:
                                 sw.WriteLine("Not command value");

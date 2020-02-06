@@ -1,0 +1,7 @@
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio3Networking\Ejercicio3Networking\bin\Debug\Ejercicio3Networking.exe.config
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio3Networking\Ejercicio3Networking\bin\Debug\Ejercicio3Networking.exe
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio3Networking\Ejercicio3Networking\bin\Debug\Ejercicio3Networking.pdb
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio3Networking\Ejercicio3Networking\obj\Debug\Ejercicio3Networking.csprojAssemblyReference.cache
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio3Networking\Ejercicio3Networking\obj\Debug\Ejercicio3Networking.csproj.CoreCompileInputs.cache
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio3Networking\Ejercicio3Networking\obj\Debug\Ejercicio3Networking.exe
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio3Networking\Ejercicio3Networking\obj\Debug\Ejercicio3Networking.pdb
