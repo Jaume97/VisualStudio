@@ -1,0 +1,7 @@
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio4Networking\Ejercicio4Networking\bin\Debug\Ejercicio4Networking.exe.config
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio4Networking\Ejercicio4Networking\bin\Debug\Ejercicio4Networking.exe
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio4Networking\Ejercicio4Networking\bin\Debug\Ejercicio4Networking.pdb
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio4Networking\Ejercicio4Networking\obj\Debug\Ejercicio4Networking.csprojAssemblyReference.cache
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio4Networking\Ejercicio4Networking\obj\Debug\Ejercicio4Networking.csproj.CoreCompileInputs.cache
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio4Networking\Ejercicio4Networking\obj\Debug\Ejercicio4Networking.exe
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio4Networking\Ejercicio4Networking\obj\Debug\Ejercicio4Networking.pdb

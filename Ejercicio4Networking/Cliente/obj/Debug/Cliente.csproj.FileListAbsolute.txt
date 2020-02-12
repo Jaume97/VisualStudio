@@ -1,0 +1,10 @@
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio4Networking\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio4Networking\Cliente\bin\Debug\Cliente.exe
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio4Networking\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio4Networking\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio4Networking\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio4Networking\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio4Networking\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio4Networking\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio4Networking\Cliente\obj\Debug\Cliente.exe
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio4Networking\Cliente\obj\Debug\Cliente.pdb

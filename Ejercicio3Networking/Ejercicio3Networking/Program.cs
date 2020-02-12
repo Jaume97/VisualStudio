@@ -87,8 +87,16 @@ namespace Ejercicio3Networking
 
                         for (int i = 0; i < lista.Count; i++)
                         {
-                            lista[i].WriteLine("Game started in " + cont);
-                            lista[i].Flush();
+                            try
+                            {
+                                lista[i].WriteLine("Game started in " + cont);
+                                lista[i].Flush();
+                            }
+                            catch (IOException)
+                            {
+                                lista.RemoveAt(i);
+                                nums.RemoveAt(i);
+                            }
                         }
 
                         cont--;
@@ -159,8 +167,6 @@ namespace Ejercicio3Networking
                     Thread game = new Thread(Game);
                     game.Start();
                 }
-
-
                 //hilo.Join(); //Deberia de usarlo?
             }
             socket.Close();
