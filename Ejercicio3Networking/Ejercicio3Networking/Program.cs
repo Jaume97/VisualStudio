@@ -63,12 +63,15 @@ namespace Ejercicio3Networking
                                 lista[i].WriteLine("The oponent win whit the number " + nums[winner]);
 
                             }
+                            System.Diagnostics.Debug.WriteLine("CountSr: "+lista.Count);
+                            System.Diagnostics.Debug.WriteLine("Countnums: " + nums.Count);    
                             lista[i].Flush();
                         }
                     }
 
                     Console.WriteLine("Aquí");
                     flag = false;
+
                 }
 
             }
@@ -155,7 +158,7 @@ namespace Ejercicio3Networking
             socket.Bind(iP);
             socket.Listen(10);
 
-            while (true)
+            while (flag)
             {
                 Socket client = socket.Accept();
                 Thread hilo = new Thread(FunctionClient);
@@ -167,9 +170,11 @@ namespace Ejercicio3Networking
                     Thread game = new Thread(Game);
                     game.Start();
                 }
-                //hilo.Join(); //Deberia de usarlo?
             }
             socket.Close();
+            lista.Clear();
+            nums.Clear();
+            Console.WriteLine("Cerrao");
         }
     }
 }

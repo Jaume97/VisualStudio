@@ -37,6 +37,10 @@ namespace Cliente
                 ns?.Close();
                 server?.Close();
             }
+            catch (Exception)
+            {
+                //dasda
+            }
             
         }
         private void comando(String text)
