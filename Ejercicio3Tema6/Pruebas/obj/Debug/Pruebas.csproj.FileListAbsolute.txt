@@ -11,3 +11,16 @@ C:\Users\Jaume\source\repos\Ejercicio3Tema6\Pruebas\bin\Debug\Ejercicio3Tema6.dl
 C:\Users\Jaume\source\repos\Ejercicio3Tema6\Pruebas\bin\Debug\Ejercicio3Tema6.pdb
 C:\Users\Jaume\source\repos\Ejercicio3Tema6\Pruebas\obj\Debug\Pruebas.Form1.resources
 C:\Users\Jaume\source\repos\Ejercicio3Tema6\Pruebas\obj\Debug\Pruebas.csproj.CopyComplete
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio3Tema6\Pruebas\bin\Debug\Pruebas.exe.config
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio3Tema6\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio3Tema6\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio3Tema6\Pruebas\bin\Debug\Ejercicio3Tema6.dll
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio3Tema6\Pruebas\bin\Debug\Ejercicio3Tema6.pdb
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio3Tema6\Pruebas\obj\Debug\Pruebas.csprojAssemblyReference.cache
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio3Tema6\Pruebas\obj\Debug\Pruebas.Form1.resources
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio3Tema6\Pruebas\obj\Debug\Pruebas.Properties.Resources.resources
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio3Tema6\Pruebas\obj\Debug\Pruebas.csproj.GenerateResource.cache
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio3Tema6\Pruebas\obj\Debug\Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio3Tema6\Pruebas\obj\Debug\Pruebas.csproj.CopyComplete
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio3Tema6\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio3Tema6\Pruebas\obj\Debug\Pruebas.pdb

@@ -51,10 +51,15 @@ namespace Ejercicio4Networking
                     else if (ComandSplit[0] == "getrecords")
                     {
                         sw.WriteLine(srRecords.ReadToEnd());
+                        sw.Flush();
                     }
                     else if (ComandSplit[0]=="closeserver")
                     {
 
+                    }
+                    else
+                    {
+                        //Ninguna de las anteriores
                     }
                 }
             }
@@ -77,7 +82,7 @@ namespace Ejercicio4Networking
                 }
             }
 
-            while (condition)
+            while (true)
             {
                 client = Server.Accept();
                 Thread hilo = new Thread(FunctionThread);

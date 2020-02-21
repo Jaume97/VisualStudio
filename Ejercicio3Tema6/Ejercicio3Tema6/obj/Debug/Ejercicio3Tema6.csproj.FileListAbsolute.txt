@@ -8,3 +8,13 @@ C:\Users\Jaume\source\repos\Ejercicio3Tema6\Ejercicio3Tema6\obj\Debug\Ejercicio3
 C:\Users\Jaume\source\repos\Ejercicio3Tema6\Ejercicio3Tema6\obj\Debug\Ejercicio3Tema6.pdb
 C:\Users\Jaume\source\repos\Ejercicio3Tema6\Ejercicio3Tema6\obj\Debug\Ejercicio3Tema6.Reproductor.resources
 C:\Users\Jaume\source\repos\Ejercicio3Tema6\Ejercicio3Tema6\obj\Debug\Ejercicio3Tema6.Resource1.resources
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio3Tema6\Ejercicio3Tema6\bin\Debug\Ejercicio3Tema6.dll
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio3Tema6\Ejercicio3Tema6\bin\Debug\Ejercicio3Tema6.pdb
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio3Tema6\Ejercicio3Tema6\obj\Debug\Ejercicio3Tema6.csprojAssemblyReference.cache
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio3Tema6\Ejercicio3Tema6\obj\Debug\Ejercicio3Tema6.Properties.Resources.resources
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio3Tema6\Ejercicio3Tema6\obj\Debug\Ejercicio3Tema6.Reproductor.resources
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio3Tema6\Ejercicio3Tema6\obj\Debug\Ejercicio3Tema6.Resource1.resources
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio3Tema6\Ejercicio3Tema6\obj\Debug\Ejercicio3Tema6.csproj.GenerateResource.cache
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio3Tema6\Ejercicio3Tema6\obj\Debug\Ejercicio3Tema6.csproj.CoreCompileInputs.cache
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio3Tema6\Ejercicio3Tema6\obj\Debug\Ejercicio3Tema6.dll
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio3Tema6\Ejercicio3Tema6\obj\Debug\Ejercicio3Tema6.pdb

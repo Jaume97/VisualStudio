@@ -98,10 +98,10 @@
             this.customControl13.Font = new System.Drawing.Font("Microsoft Sans Serif", 50F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.customControl13.Gradient = false;
             this.customControl13.ImagenMarca = global::PruebaTema5.Properties.Resources.hola;
-            this.customControl13.Location = new System.Drawing.Point(332, 88);
+            this.customControl13.Location = new System.Drawing.Point(178, 125);
             this.customControl13.Marca = Etiquetaviso.eMarca.Nada;
             this.customControl13.Name = "customControl13";
-            this.customControl13.Size = new System.Drawing.Size(657, 123);
+            this.customControl13.Size = new System.Drawing.Size(541, 83);
             this.customControl13.TabIndex = 7;
             this.customControl13.Text = "customControl13";
             this.customControl13.ClickEnMarca += new System.EventHandler(this.CustomControl13_ClickEnMarca);
@@ -111,7 +111,7 @@
             this.customControl12.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.customControl12.Gradient = false;
             this.customControl12.ImagenMarca = ((System.Drawing.Image)(resources.GetObject("customControl12.ImagenMarca")));
-            this.customControl12.Location = new System.Drawing.Point(164, 244);
+            this.customControl12.Location = new System.Drawing.Point(101, 258);
             this.customControl12.Marca = Etiquetaviso.eMarca.Imagen;
             this.customControl12.Name = "customControl12";
             this.customControl12.Size = new System.Drawing.Size(50, 20);

@@ -17,7 +17,7 @@ namespace Ejercicio3Networking
         public static List<StreamWriter> lista = new List<StreamWriter>();
         public static List<int> nums = new List<int>();
         public static Random random = new Random();
-        private static readonly object l = new object();
+        private static readonly object l = new object(), j= new object();
         public static bool flag = true, game = false;
 
 
@@ -29,18 +29,18 @@ namespace Ejercicio3Networking
                 Console.WriteLine($"Clientes en Game: {CountClients}");
                 if (CountClients >= 2)
                 {
-                    if (CountClients == 2)//este if lo pongo porque si no haria un pulse al wait del timer. 
-                    {
-                        lock (l)
-                        {
-                            Monitor.PulseAll(l);
-                        }
-                    }
+                    //if (CountClients == 2)//este if lo pongo porque si no haria un pulse al wait del timer. 
+                    //{
+                    //    lock (l)
+                    //    {
+                    //        Monitor.PulseAll(l);
+                    //    }
+                    //}
                     Thread temp = new Thread(Timer);
                     temp.Start();
-                    lock (l)
+                    lock (j)
                     {
-                        Monitor.Wait(l);
+                        Monitor.Wait(j);
                     }
                     for (int i = 0; i < nums.Count; i++)
                     {
@@ -54,24 +54,45 @@ namespace Ejercicio3Networking
                     {
                         for (int i = 0; i < lista.Count; i++)
                         {
-                            if (i == winner)
+                            try
                             {
-                                lista[i].WriteLine("You win whit your number " + nums[i]);
-                            }
-                            else
-                            {
-                                lista[i].WriteLine("The oponent win whit the number " + nums[winner]);
+                                if (i == winner)
+                                {
+                                    lista[i].WriteLine("You win whit your number " + nums[i]);
+                                }
+                                else
+                                {
+                                    lista[i].WriteLine("The oponent win whit the number " + nums[winner]);
 
+                                }
+                                System.Diagnostics.Debug.WriteLine("CountSr: " + lista.Count);
+                                System.Diagnostics.Debug.WriteLine("Countnums: " + nums.Count);
+                                lista[i].Flush();
                             }
-                            System.Diagnostics.Debug.WriteLine("CountSr: "+lista.Count);
-                            System.Diagnostics.Debug.WriteLine("Countnums: " + nums.Count);    
-                            lista[i].Flush();
+                            catch (IOException)
+                            {
+                                System.Diagnostics.Debug.WriteLine("error en la entrega del numero");
+                            }
                         }
                     }
 
                     Console.WriteLine("Aquí");
                     flag = false;
-
+                    lock (l)
+                    {
+                        lista.Clear();
+                        nums.Clear();
+                    }
+                    
+                    cont = 10;
+                    CountClients = 0;
+                    game = false;
+                    max = 0;
+                    //CountClients = 0;
+                    lock (l)
+                    {
+                        Monitor.PulseAll(l);
+                    }
                 }
 
             }
@@ -107,9 +128,9 @@ namespace Ejercicio3Networking
                 }
                 Thread.Sleep(1000);
             }
-            lock (l)
+            lock (j)
             {
-                Monitor.PulseAll(l);
+                Monitor.PulseAll(j);
             }
         }
         public static void FunctionClient(Object client)
@@ -134,17 +155,19 @@ namespace Ejercicio3Networking
                 {
                     sw.WriteLine("Waiting for oponents");
                     sw.Flush();
-                    lock (l)
-                    {
-                        Monitor.Wait(l);
-                    }
+
 
                 }
-                while (flag)
+                lock (l)
                 {
-
+                    Monitor.Wait(l);
                 }
+                //while (flag)
+                //{
+
+                //}
             }
+            host.Close();
         }
 
         static void Main(string[] args)
@@ -158,23 +181,23 @@ namespace Ejercicio3Networking
             socket.Bind(iP);
             socket.Listen(10);
 
-            while (flag)
+            while (true)
             {
                 Socket client = socket.Accept();
                 Thread hilo = new Thread(FunctionClient);
                 hilo.Start(client);//hilo clientes y juego
                 CountClients++;
+                flag = true;
+
                 if (CountClients >= 2 && !game) //RECORDAR VER SI LANZO DOS HILOS AL MISMO TIEMPO
                 {
                     Console.WriteLine("efdsefs");
+
                     Thread game = new Thread(Game);
                     game.Start();
+
                 }
             }
-            socket.Close();
-            lista.Clear();
-            nums.Clear();
-            Console.WriteLine("Cerrao");
         }
     }
 }
