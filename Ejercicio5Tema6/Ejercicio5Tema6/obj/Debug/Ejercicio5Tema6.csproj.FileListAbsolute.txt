@@ -1,0 +1,8 @@
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio5Tema6\Ejercicio5Tema6\bin\Debug\Ejercicio5Tema6.dll
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio5Tema6\Ejercicio5Tema6\bin\Debug\Ejercicio5Tema6.pdb
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio5Tema6\Ejercicio5Tema6\obj\Debug\Ejercicio5Tema6.csprojAssemblyReference.cache
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio5Tema6\Ejercicio5Tema6\obj\Debug\Ejercicio5Tema6.csproj.GenerateResource.cache
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio5Tema6\Ejercicio5Tema6\obj\Debug\Ejercicio5Tema6.csproj.CoreCompileInputs.cache
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio5Tema6\Ejercicio5Tema6\obj\Debug\Ejercicio5Tema6.dll
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio5Tema6\Ejercicio5Tema6\obj\Debug\Ejercicio5Tema6.pdb
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio5Tema6\Ejercicio5Tema6\obj\Debug\Ejercicio5Tema6.ValidateTextbox.resources
