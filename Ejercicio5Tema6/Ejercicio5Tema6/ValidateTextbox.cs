@@ -12,21 +12,22 @@ namespace Ejercicio5Tema6
 {
     public partial class ValidateTextbox : Control
     {
-        private Color color;
-        public bool flagNumber = true;
-        public bool flagLetter = true;
-       
         public enum eTipo
         {
             Numerico,
             Textual
         }
-        private eTipo tipo = eTipo.Textual;
+
+        private Color color;
+        private eTipo tipo;
+        public bool flagNumber = true;
+        public bool flagLetter = true;
+       
         public ValidateTextbox()
         {
             InitializeComponent();
             color = Color.Red;
-            Comprobacion();
+            //Comprobacion();
         }
 
         [Category("MisPropiedades")]
@@ -65,6 +66,7 @@ namespace Ejercicio5Tema6
             set
             {
                 tipo = value;
+                this.Refresh();
             }
             get
             {
@@ -75,6 +77,7 @@ namespace Ejercicio5Tema6
         {
             base.OnPaint(e);
             Graphics g = e.Graphics;
+            Comprobacion();
             SolidBrush b = new SolidBrush(color);
             g.DrawRectangle(new Pen(b), 5, 5, this.Width - 10, this.Height - 10);
         }
@@ -114,7 +117,7 @@ namespace Ejercicio5Tema6
             {
                 foreach (char letra in textBox1.Text)
                 {
-                    if (!Char.IsLetter(letra) || !Char.IsWhiteSpace(letra))
+                    if (!Char.IsLetter(letra) && !Char.IsWhiteSpace(letra))
                     {
                         flagLetter = false;
                     }
@@ -128,7 +131,7 @@ namespace Ejercicio5Tema6
                     color = Color.Red;
                 }
             }
-            this.Refresh();
+        //    this.Refresh();
         }
         private void TextBox1_TextChanged(object sender, EventArgs e)
         {

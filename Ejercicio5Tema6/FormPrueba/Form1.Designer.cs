@@ -39,8 +39,8 @@
             this.validateTextbox1.Size = new System.Drawing.Size(317, 40);
             this.validateTextbox1.TabIndex = 0;
             this.validateTextbox1.Text = "validateTextbox1";
-            this.validateTextbox1.Texto = "34";
-            this.validateTextbox1.Tipo = Ejercicio5Tema6.ValidateTextbox.eTipo.Numerico;
+            this.validateTextbox1.Texto = "aaa";
+            this.validateTextbox1.Tipo = Ejercicio5Tema6.ValidateTextbox.eTipo.Textual;
             this.validateTextbox1.TextChanged += new System.EventHandler(this.ValidateTextbox1_TextChanged);
             this.validateTextbox1.Click += new System.EventHandler(this.ValidateTextbox1_Click);
             // 
