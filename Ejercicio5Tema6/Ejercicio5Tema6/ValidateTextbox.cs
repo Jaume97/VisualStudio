@@ -27,7 +27,6 @@ namespace Ejercicio5Tema6
         {
             InitializeComponent();
             color = Color.Red;
-            //Comprobacion();
         }
 
         [Category("MisPropiedades")]
@@ -131,11 +130,11 @@ namespace Ejercicio5Tema6
                     color = Color.Red;
                 }
             }
-        //    this.Refresh();
+            
         }
         private void TextBox1_TextChanged(object sender, EventArgs e)
         {
-            Comprobacion();
+            this.Refresh();
             this.OnTextChanged(e);
         }
     }

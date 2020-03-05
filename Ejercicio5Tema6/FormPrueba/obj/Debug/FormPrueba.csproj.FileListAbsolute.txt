@@ -4,10 +4,11 @@ C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio5Tema6\FormPrueba\bi
 C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio5Tema6\FormPrueba\bin\Debug\Ejercicio5Tema6.dll
 C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio5Tema6\FormPrueba\bin\Debug\Ejercicio5Tema6.pdb
 C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio5Tema6\FormPrueba\obj\Debug\FormPrueba.csprojAssemblyReference.cache
-C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio5Tema6\FormPrueba\obj\Debug\FormPrueba.Form1.resources
 C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio5Tema6\FormPrueba\obj\Debug\FormPrueba.Properties.Resources.resources
 C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio5Tema6\FormPrueba\obj\Debug\FormPrueba.csproj.GenerateResource.cache
 C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio5Tema6\FormPrueba\obj\Debug\FormPrueba.csproj.CoreCompileInputs.cache
 C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio5Tema6\FormPrueba\obj\Debug\FormPrueba.csproj.CopyComplete
 C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio5Tema6\FormPrueba\obj\Debug\FormPrueba.exe
 C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio5Tema6\FormPrueba\obj\Debug\FormPrueba.pdb
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio5Tema6\FormPrueba\obj\Debug\FormPrueba.Form1.resources
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio5Tema6\FormPrueba\obj\Debug\FormPrueba.Form2.resources
