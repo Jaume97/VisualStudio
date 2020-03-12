@@ -1,0 +1,11 @@
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio8Forms\Ejercicio8Forms\bin\Debug\Ejercicio8Forms.exe.config
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio8Forms\Ejercicio8Forms\bin\Debug\Ejercicio8Forms.exe
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio8Forms\Ejercicio8Forms\bin\Debug\Ejercicio8Forms.pdb
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio8Forms\Ejercicio8Forms\obj\Debug\Ejercicio8Forms.csprojAssemblyReference.cache
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio8Forms\Ejercicio8Forms\obj\Debug\Ejercicio8Forms.Form1.resources
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio8Forms\Ejercicio8Forms\obj\Debug\Ejercicio8Forms.Properties.Resources.resources
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio8Forms\Ejercicio8Forms\obj\Debug\Ejercicio8Forms.csproj.GenerateResource.cache
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio8Forms\Ejercicio8Forms\obj\Debug\Ejercicio8Forms.csproj.CoreCompileInputs.cache
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio8Forms\Ejercicio8Forms\obj\Debug\Ejercicio8Forms.exe
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio8Forms\Ejercicio8Forms\obj\Debug\Ejercicio8Forms.pdb
+C:\Users\Jaume\Documents\VisualStudio\VisualStudio\Ejercicio8Forms\Ejercicio8Forms\obj\Debug\Ejercicio8Forms.Form2.resources
